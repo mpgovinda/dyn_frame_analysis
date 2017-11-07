@@ -1,0 +1,16 @@
+cycler==0.10.0
+decorator==4.1.2
+matplotlib==2.0.2
+networkx==2.0
+numpy==1.13.1
+olefile==0.44
+opencv-python==3.3.0.10
+Pillow==4.2.1
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2017.2
+PyWavelets==0.5.2
+scikit-image==0.13.0
+scipy==0.19.1
+six==1.11.0
+urllib2-file==0.2.1
