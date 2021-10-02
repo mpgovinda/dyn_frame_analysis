@@ -1,7 +1,13 @@
+# Code is tempred for new feature. New learning curve for a deep analysis of the images
+# Opencv will upgrade in near future
 import cv2
 import numpy as np
 from imutils.object_detection import non_max_suppression
 # from matplotlib import pyplot as plt
+import os
+
+path = os.path.join(os.path.abspath, 'src')
+print(path)
 
 # Cascade files (Classifers)
 face_cascade = cv2.CascadeClassifier('xml/haarcascade_frontalface_default.xml')
