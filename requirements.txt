@@ -50,7 +50,7 @@ six==1.10.0
 xattr==0.6.4
 zope.interface==4.1.1
 boost==0.1
-certifi==2017.7.27.1
+certifi==2022.12.7
 chardet==3.0.4
 cycler==0.10.0
 dateutils==0.6.6
